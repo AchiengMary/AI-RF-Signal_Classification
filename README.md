@@ -55,7 +55,7 @@ gui_demo/             # Streamlit GUI for live demo visualization
 
 ---
 
-## 📡 Real-Time RTL-SDR Pipeline
+## Real-Time RTL-SDR Pipeline
 
 1. Capture IQ data with RTL-SDR
 2. Apply filtering + STFT
@@ -91,7 +91,10 @@ streamlit run gui_demo/gui.py
 
 ## References
 
-*(List the same references provided in your project summary)*
+[1]. K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image recognition,” in Proc. IEEE CVPR, 2016, pp. 770–778.
+[2] M.-L. Zhang and Z.-H. Zhou, “A review on multi-label learning algorithms,” IEEE Trans. Knowledge and Data Engineering, vol. 26, no.8, pp. 1819–1837, 2014.
+[3] B. Flowers, R. M. Buehrer, and R. M. Kaplan, “Deep learning and the physical layer: Possibilities and challenges,” IEEE Communications Magazine, vol. 55, no. 1, pp. 68–74, 2017.
+[4] MATLAB Communications Toolbox Documentation, MathWorks, 2025.
 
 ---
 
