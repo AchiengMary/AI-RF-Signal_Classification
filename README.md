@@ -91,9 +91,12 @@ streamlit run gui_demo/gui.py
 
 ## References
 
-[1]. K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image recognition,” in Proc. IEEE CVPR, 2016, pp. 770–778.
-[2] M.-L. Zhang and Z.-H. Zhou, “A review on multi-label learning algorithms,” IEEE Trans. Knowledge and Data Engineering, vol. 26, no.8, pp. 1819–1837, 2014.
-[3] B. Flowers, R. M. Buehrer, and R. M. Kaplan, “Deep learning and the physical layer: Possibilities and challenges,” IEEE Communications Magazine, vol. 55, no. 1, pp. 68–74, 2017.
+[1] K. He, X. Zhang, S. Ren, and J. Sun, "Deep residual learning for image recognition," in *Proc. IEEE CVPR*, 2016, pp. 770–778.
+
+[2] M.-L. Zhang and Z.-H. Zhou, "A review on multi-label learning algorithms," *IEEE Trans. Knowledge and Data Engineering*, vol. 26, no. 8, pp. 1819–1837, 2014.
+
+[3] B. Flowers, R. M. Buehrer, and R. M. Kaplan, "Deep learning and the physical layer: Possibilities and challenges," *IEEE Communications Magazine*, vol. 55, no. 1, pp. 68–74, 2017.
+
 [4] MATLAB Communications Toolbox Documentation, MathWorks, 2025.
 
 ---
