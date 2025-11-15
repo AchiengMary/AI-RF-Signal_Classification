@@ -1,13 +1,13 @@
 # AI-Based RF Signal Classification
 
-**By:** Achieng Mary, Derrick Mucheru, Valentine Ndichu  
+**By:** Derrick Mucheru, Valentine Ndichu, Achieng Mary  
 **Supervised by:** Prof. Ciira Maina
 
 This repository contains all code for our project **AI-Based RF Signal Classification**, including dataset generation, model training, evaluation, and real-time inference using RTL-SDR hardware.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 We develop a multi-label RF signal classifier capable of detecting:
 
@@ -24,7 +24,7 @@ The model uses spectrograms generated via STFT and a modified ResNet-18 optimize
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 dataset/              # MATLAB dataset generator + sample data
@@ -35,7 +35,7 @@ gui_demo/             # Streamlit GUI for live demo visualization
 
 ---
 
-## 🧠 Model Summary
+## Model Summary
 
 - **Base Model:** ResNet-18 (pretrained)
 - **Input:** 257×39 STFT spectrogram → 224×224 RGB
@@ -67,7 +67,7 @@ All code is inside: `rtlsdr_realtime/`
 
 ---
 
-## ▶️ Running Real-Time Demo
+## Running Real-Time Demo
 
 ### Install dependencies:
 
@@ -89,18 +89,18 @@ streamlit run gui_demo/gui.py
 
 ---
 
-## 📚 References
+## References
 
 *(List the same references provided in your project summary)*
 
 ---
 
-## 📄 License
+## License
 
 MIT License © 2025
 
 ---
 
-## 🎥 Demo Video
+## Demo Video
 
-*(You can add a YouTube link later)*
+*(Video link to be added)*
